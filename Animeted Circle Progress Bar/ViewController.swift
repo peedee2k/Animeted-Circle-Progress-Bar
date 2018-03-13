@@ -47,7 +47,7 @@ class ViewController: UIViewController {
         
         // Lets start drawing circle
         
-        
+        // This is just test comment.
         
         // Create a Track for circle
         let trackPath = CAShapeLayer()
